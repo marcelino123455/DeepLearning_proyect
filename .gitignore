@@ -1,2 +1,3 @@
 # Ignorar toda la carpeta data y su contenido
 data/**
+**/service_account.json
